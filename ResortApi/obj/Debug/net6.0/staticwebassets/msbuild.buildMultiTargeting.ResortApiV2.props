@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ResortApiV2.props" />
+</Project>
